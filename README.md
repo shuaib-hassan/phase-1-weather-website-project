@@ -1,5 +1,7 @@
 # **Weather-website-website-Project Completion Report**  
 
+### The hosted link to this project is "  https://shuaib-hassan.github.io/phase-1-weather-website-project/ "
+
 ### **✅ Fully Completed Objectives**  
 
 #### **1. Single-Page Application (SPA) with API Integration**  
